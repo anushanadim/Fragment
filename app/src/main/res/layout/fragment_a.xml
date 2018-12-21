@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout android:padding="16dp" android:orientation="vertical" android:gravity="center_horizontal" android:background="@android:color/holo_green_light" android:layout_height="wrap_content" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText android:layout_height="190dp" android:layout_width="match_parent" android:textSize="25sp" android:id="@+id/edit_text"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:textSize="25sp" android:id="@+id/button_ok" android:text="Ok"/>
+
+</LinearLayout>
